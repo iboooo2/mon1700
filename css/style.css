@@ -270,7 +270,7 @@ header .text .btn a:hover{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(to right, #4a0f988c, #e087288c);
+    background: linear-gradient(to right, #4a0f988c, #ff69b4);
 }
 
 .collections .block .box .box-img{
